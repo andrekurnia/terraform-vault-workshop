@@ -1,2 +1,2 @@
 
-module_repo = "STORAGE_MODULE"
+module_repo = "terraform-aws-s3-bucket"
